@@ -438,6 +438,8 @@ Summary: 17/17 passed | intent_accuracy=1.0 | json_validity_rate=1.0 | refusal_c
 
 ## Loom Demo
 
+https://www.loom.com/share/11602b38cef44cbdb1c1529b7dddeb5b
+
 The demo covers 5 end-to-end scenarios:
 
 1. Refund request → auto-handled
@@ -451,3 +453,12 @@ Focus:
 - multilingual handling
 - uncertainty awareness
 - real-time API + UI working together
+
+Demo: https://youtu.be/o3j49VRS9Mo
+
+
+
+
+
+
+
