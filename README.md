@@ -1,4 +1,4 @@
-# MumzAssist.AI  
+# Customer Support Triage System - MumzAssist.AI  
 ### Multilingual Customer Support Triage + Reply Generator
 
 > Built in ~5 hours with focus on safe, production-style AI behavior over naive automation.
